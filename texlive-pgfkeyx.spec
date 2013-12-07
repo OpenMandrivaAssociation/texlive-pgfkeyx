@@ -6,7 +6,7 @@
 # catalog-version 0.0.1
 Name:		texlive-pgfkeyx
 Version:	0.0.1
-Release:	4
+Release:	5
 Summary:	Extended and more robust version of pgfkeys
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfkeyx
