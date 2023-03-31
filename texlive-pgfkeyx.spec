@@ -1,6 +1,6 @@
 Name:		texlive-pgfkeyx
 Version:	26093
-Release:	1
+Release:	2
 Summary:	Extended and more robust version of pgfkeys
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfkeyx
