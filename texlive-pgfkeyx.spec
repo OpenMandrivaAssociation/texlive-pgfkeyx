@@ -3,7 +3,7 @@ Version:	26093
 Release:	2
 Summary:	Extended and more robust version of pgfkeys
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfkeyx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pgfkeyx
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgfkeyx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgfkeyx.doc.r%{version}.tar.xz
